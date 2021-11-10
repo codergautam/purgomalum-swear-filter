@@ -11,6 +11,7 @@ node_modules/
 *.exe
 *.o
 *.so
+*.tgz
 out/
 
 # Packages #

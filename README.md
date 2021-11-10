@@ -10,10 +10,9 @@
 <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
 
 </a>
+<img alt="npm" src="https://img.shields.io/npm/dt/purgomalum-swear-filter">
 
 </p>
-
-  
 
 > ### The easiest way to block swearing on your project!
 
