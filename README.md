@@ -5,11 +5,6 @@
 
 <img  alt="Version"  src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000"  />
 
-<a  href="https://github.com/codergautam/purgomalum-swear-filter/graphs/commit-activity"  target="_blank">
-
-<img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
-
-</a>
 <img alt="npm" src="https://img.shields.io/npm/dt/purgomalum-swear-filter">
 
 </p>
